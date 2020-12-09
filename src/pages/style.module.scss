@@ -1,0 +1,25 @@
+.wrapper {
+  cursor: pointer;
+  display: grid;
+  direction: rtl;
+  grid-auto-flow: column;
+  transition: 240ms;
+}
+
+.imgWrapper {
+  max-height: 1378px;
+}
+
+.imgWrapper:nth-child(odd) .spread {
+  object-position: left;
+}
+
+.imgWrapper:nth-child(even) .spread {
+  object-position: right;
+}
+
+.img {
+  height: 100%;
+  object-fit: contain;
+  width: 100%;
+}
