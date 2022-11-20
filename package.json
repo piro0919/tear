@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@charlietango/use-window-size": "1.6.0",
-    "next": "10.0.0",
+    "next": "10.2.3",
     "node-sass": "4.14.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
