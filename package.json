@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@charlietango/use-window-size": "1.6.0",
+    "@charlietango/use-window-size": "1.7.0",
     "next": "10.0.0",
     "node-sass": "4.14.1",
     "react": "17.0.1",
